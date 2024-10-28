@@ -1,0 +1,22 @@
+PODS:
+  - flutter_screen_recorder (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - flutter_screen_recorder (from `Flutter/ephemeral/.symlinks/plugins/flutter_screen_recorder/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+EXTERNAL SOURCES:
+  flutter_screen_recorder:
+    :path: Flutter/ephemeral/.symlinks/plugins/flutter_screen_recorder/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  flutter_screen_recorder: aed1da8f57f4119a9a23d068716c772beba72605
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+
+PODFILE CHECKSUM: c2e95c8c0fe03c5c57e438583cae4cc732296009
+
+COCOAPODS: 1.15.2
