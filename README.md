@@ -1,15 +1,18 @@
 # flutter_screen_recorder
 
-A new Flutter plugin project.
+A Flutter plugin for macOS to record the screen and capture system audio, designed for seamless integration in Flutter applications. This plugin currently supports **screen recording on macOS only**.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/to/develop-plugins),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+- Screen recording functionality on macOS
+- System audio recording (not microphone)
+- Customizable recording settings
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
 
+Add `flutter_screen_recorder` as a dependency in your `pubspec.yaml` file:
+
+```yaml
+dependencies:
+  flutter_screen_recorder:
+    path: path/to/your/plugin
