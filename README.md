@@ -25,7 +25,7 @@ Or install from GitHub (if you’re planning to publish it):
 dependencies:
   flutter_screen_recorder:
     git:
-      url: https://github.com/yourusername/flutter_screen_recorder.git
+      url: https://github.com/TheBilalJaved/flutter_screen_recorder.git
 ```
 
 Then, run:
